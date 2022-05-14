@@ -1,2 +1,13 @@
 # automatic-octo-chainsaw
 1st session on doc-as-code TWT tribe
+# Heading 1
+I am using **Markdown** to reinstate what has been _taught_.
+Today, I learnt:
+-  How to create a repository
+-  Naming the repository
+-  Editing the repository
+
+The sessions are sequential:
+1. May 14 falls on Saturday
+2. May 15 falls on Sunday
+
