@@ -1,4 +1,4 @@
-# Doc-as-Code session
+# Session 1 - Day 1
 1st session on doc-as-code TWT tribe
 # Heading 1
 I am using **Markdown** to reinstate what has been _taught_.
