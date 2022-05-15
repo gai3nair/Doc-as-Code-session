@@ -10,6 +10,10 @@ This document was created in {{page.year}} by {{site.author_main}}.
 - {{item.name}}, {{item.year}}
 {% endfor %}
 
+{% for item in site.data.data_file %}
+- {{item.name}}, {{item.gender}}
+{% endfor %}
+
 ## Including a change to see how it displays.
 1st session on doc-as-code TWT tribe
 ### Heading 1
