@@ -6,6 +6,9 @@ layout: demo_template
 
 # Session 1 - Day 1
 This document was created in {{page.year}} by {{site.author_main}}.
+{% for item in site.data.sample %}
+- {{item.name}}, {{item.year}}
+{% endfor %}
 
 ## Including a change to see how it displays.
 1st session on doc-as-code TWT tribe
