@@ -1,5 +1,4 @@
-name,gender,experience
-Gayatri,female,10
-Anindita,female,15
-Chandrakant,male,18
+name: Gayatri, Anita, Prakash
+gender: female, female, male
+experience: 10, 5, 18
 
