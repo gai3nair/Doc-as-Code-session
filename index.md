@@ -5,7 +5,7 @@ layout: demo_template
 ---
 
 # Session 1 - Day 1
-This document was created in {{page.year}} by {{page.author}}.
+This document was created in {{page.year}} by {{site.author_main}}.
 
 ## Including a change to see how it displays.
 1st session on doc-as-code TWT tribe
