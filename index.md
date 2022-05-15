@@ -1,6 +1,7 @@
 ---
 year: 2022
 author: Gayatri
+layout: demo_template
 ---
 
 # Session 1 - Day 1
