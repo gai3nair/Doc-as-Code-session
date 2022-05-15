@@ -11,7 +11,7 @@ This document was created in {{page.year}} by {{site.author_main}}.
 {% endfor %}
 
 {% for item in site.data.data_file %}
-- {{item.name}}, {{item.gender}}
+- {{item.name}}, {{item.gender}}, {{item.experience}}
 {% endfor %}
 
 ## Including a change to see how it displays.
