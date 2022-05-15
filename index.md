@@ -1,10 +1,10 @@
 ---
 year: 2022
-name: Gayatri
+author: Gayatri
 ---
 
 # Session 1 - Day 1
-This document was created in {{page.year}} by {{page.name}}.
+This document was created in {{page.year}} by {{page.author}}.
 
 ## Including a change to see how it displays.
 1st session on doc-as-code TWT tribe
