@@ -1,1 +1,2 @@
-<hr>This page belongs to Gayatri.</hr>
+<hr/>This page belongs to Gayatri.
+<hr/>
