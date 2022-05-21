@@ -3,7 +3,7 @@ year: 2022
 author: Gayatri
 layout: demo_template
 ---
-{% include footer.txt %}
+
 # Session 1 - Day 1
 This document was created in {{page.year}} by {{site.author_main}}.
 {% for item in site.data.sample %}
